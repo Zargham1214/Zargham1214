@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/zargham-abbas-742287175/">
   <img align="left" alt="Zargham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/zarghamabbass">
-  <img align="left" alt="Zargham's kaggle" width="22px" src="hhttps://www.logosvgpng.com/wp-content/uploads/2020/11/kaggle-inc-logo-vector.png" />
-</a>
+
 <a href="https://public.tableau.com/app/profile/zargham.abbas">
   <img align="left" alt="Zargham's Tableau" width="22px" src="https://github.com/Zargham1214/Zargham1214/blob/main/tableau-software.svg" />
 </a>
