@@ -12,7 +12,7 @@
 </a>
 <br />
 
-Hey, I am [Zargham Abbas],studyng my BS in computer Science from SEECS-NUST, Islamabad. 
+Hey, I am  Zargham Abbas,studyng my BS in computer Science from SEECS-NUST, Islamabad. 
 I joined High Performance Computing(HPC),Lab-SEECS as Research Associate. Also,I am serving Assiciation for Computing Machinery(ACM)-NUST chapter as Team Lead marketing. Considering the phrase 'data is the new oil' I could not stop my self from digging into data scinece and now data is my new craze.I play with data to draw insights from it.
 
 
