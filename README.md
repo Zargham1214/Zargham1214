@@ -1,7 +1,16 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.linkedin.com/in/zargham-abbas-742287175/">
+  <img align="left" alt="Zargham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/zarghamabbass">
+  <img align="left" alt="Zargham | Kaggler" width="22px" src="https://camo.githubusercontent.com/96313f84e4c257e753560f701e77c29697410d36bbd327294980f90451fcb1bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" />
+</a>
 
-
+<a href="https://public.tableau.com/app/profile/zargham.abbas">
+  <img align="left" alt="Zargham's Tableau" width="22px" src="https://github.com/Zargham1214/Zargham1214/blob/main/tableau-software.svg" />
+</a>
+<br />
 I am  Zargham Abbas, studyng my BS in computer Science from SEECS-NUST, Islamabad. 
 I joined High Performance Computing(HPC),Lab-SEECS as Research Associate. Also,I am serving Assiciation for Computing Machinery(ACM)-NUST chapter as Team Lead marketing . Considering the phrase 'data is the new oil' I could not stop my self from digging into data scinece and now data is my new craze.I play with data to draw insights from it .
 
@@ -16,20 +25,5 @@ I joined High Performance Computing(HPC),Lab-SEECS as Research Associate. Also,I
 <code><img height="20" src="https://github.com/Zargham1214/Zargham1214/blob/main/tableau-software.svg" /></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></code>
 <code><img height="20" src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" /></code>
-
-**You can also see me other work here:** 
-<a href="https://www.linkedin.com/in/zargham-abbas-742287175/">
-  <img align="left" alt="Zargham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://www.kaggle.com/zarghamabbass">
-  <img align="left" alt="Zargham | Kaggler" width="22px" src="https://camo.githubusercontent.com/96313f84e4c257e753560f701e77c29697410d36bbd327294980f90451fcb1bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6167676c652e737667" />
-</a>
-
-<a href="https://public.tableau.com/app/profile/zargham.abbas">
-  <img align="left" alt="Zargham's Tableau" width="22px" src="https://github.com/Zargham1214/Zargham1214/blob/main/tableau-software.svg" />
-</a>
-<br />
-
 
 
