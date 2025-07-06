@@ -1,15 +1,42 @@
-hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/zargham-abbas-742287175/"> <img align="left" alt="Zargham's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a> <a href="https://www.kaggle.com/zarghamabbass"> <img align="left" alt="Zargham | Kaggle" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" /> </a> <a href="https://public.tableau.com/app/profile/zargham.abbas"> <img align="left" alt="Zargham's Tableau" width="22px" src="https://raw.githubusercontent.com/Zargham1214/Zargham1214/main/tableau-software.svg" /> </a> <br />
-I turn messy data into business gold. With nearly 3 years of BI wizardry under my belt, I build pipelines, dashboards, and data warehouses that actually make sense. Fluent in Spark, Hive, Hudi, Power BI, and probably your favorite database too. Whether it's AWS or Microsoft, I’ve wrangled it. Love data so much, I might marry a spreadsheet someday.
+# 👋 Hey there, I'm Zargham Abbas!
 
-📫 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg"> Ask me anything at email — I'm happy to help!
+🚀 Turning messy data into meaningful insights since 2021.
 
-Languages and Tools:
+With nearly **3 years of BI wizardry**, I build powerful data pipelines, insightful dashboards, and scalable warehouses that help businesses make smarter decisions. Whether it's wrangling terabytes on Spark or designing visuals in Power BI, I turn raw data into real impact.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://www.r-project.org/logo/Rlogo.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/Zargham1214/Zargham1214/main/tableau-software.svg" /></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></code>
-<code><img height="20" src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" /></code>
+---
 
+## 🔍 What I Do:
+- 🔧 Build scalable **ETL pipelines** and **data models**
+- 📊 Design sleek **dashboards** in **Power BI**, **Tableau**, and **QuickSight**
+- ☁️ Tame cloud ecosystems like **AWS (S3, Athena)** and **Microsoft (SSIS, SSAS)**
+- 🧠 Translate complex business needs into **data-driven decisions**
+
+---
+
+## 💼 Let’s Connect:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zargham-abbas-742287175/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/zargham.abbas)
+- 🧠 [Kaggle](https://www.kaggle.com/zarghamabbass)
+- 📬 Email: [zabbas.bscs18seecs@seecs.edu.pk](mailto:zabbas.bscs18seecs@seecs.edu.pk)
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages & Tools I Use Daily:**
+
+| Python | R | Git | Spark | Power BI | Tableau | SQL | VS Code |
+|--------|----|-----|-------|----------|---------|-----|---------|
+| 🐍     | 📊 | 🔧 | ⚡    | 📈       | 📊      | 🗃️  | 💻      |
+
+---
+
+## ⚡ Fun Fact:
+> I love data so much, I might just marry a spreadsheet.  
+> (Don't tell my database.)
+
+---
+
+Thanks for stopping by! If you're into **data, dashboards**, or a good coffee-fueled chat about ETL design — let's talk!
