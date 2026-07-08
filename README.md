@@ -22,7 +22,7 @@ I'm a Data & AI Consultant with nearly **4 years of experience** designing data 
 
 ## 🚀 Expertise
 
-- 📊 Business Intelligence & Analytics
+- 📊 Business Intelligence & Advance Analytics
 - ⚙️ Data Engineering & ETL/ELT
 - ☁️ Cloud Data Platforms
 - 🏗️ Data Warehousing & Data Modeling
