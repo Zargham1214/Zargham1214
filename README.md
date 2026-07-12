@@ -16,7 +16,7 @@
 
 ## 💡 About Me
 
-I'm a Data & AI Consultant with nearly **4 years of experience** designing data solutions that enable better business decisions. My expertise spans Business Intelligence, Data Engineering, Cloud Analytics, and Enterprise Data Integration.
+I am a Data & AI Consultant with nearly **4 years of experience** designing data solutions that enable better business decisions. My expertise spans Business Intelligence, Data Engineering, Cloud Analytics, and Enterprise Data Integration.
 
 ---
 
