@@ -4,7 +4,7 @@
 
 ### Data & AI Consultant | Data Engineer | Business Intelligence Consultant
 
-*Transforming data into scalable solutions and actionable insights.*
+*Bridging data, technology, and strategy to deliver scalable solutions and actionable insights.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zargham-abbas-742287175/)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/zargham.abbas)
