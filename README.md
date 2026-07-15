@@ -50,7 +50,7 @@ I am a Data & AI Consultant with nearly **4 years of experience** designing data
 
 **Analytics**
 
-`Power BI` • `Tableau` • `Amazon QuickSight`
+`Power BI` • `Tableau` • `Amazon QuickSight` • `Apache Superset`
 
 **Tools**
 
